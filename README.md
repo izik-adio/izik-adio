@@ -1,7 +1,8 @@
 <h2># About Me: </h2>
 <h1 align="center">Hi 👋, I'm <\Zik-Tech></h1>
  
-![coders](https://user-images.githubusercontent.com/111295757/193407828-ea527bf8-1cf2-4041-8221-bb625f68e5f6.gif)
+//![coders]()
+ <img alt="coding" width="100%" height="350" src="https://user-images.githubusercontent.com/111295757/193407828-ea527bf8-1cf2-4041-8221-bb625f68e5f6.gif" />
 
 <h3 align="center">A passionate and inquisitive Software Engineer from Nigeria.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
