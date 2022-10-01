@@ -61,9 +61,9 @@ Name | Badges
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rachamv&show_icons=true&locale=en&layout=compact" alt="Rachamv" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zik-Tech&show_icons=true&locale=en&layout=compact" alt="Zik-Tech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rachamv&show_icons=true&locale=en" alt="Zik-Tecg"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zik-Tech&show_icons=true&locale=en" alt="Zik-Tech"/></p>
 
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -72,6 +72,13 @@ Name | Badges
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 -------------------------------------------------->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zik-Tech&show_icons=true&locale=en&layout=compact" alt="Zik-Tech" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zik-Tech&show_icons=true&locale=en" alt="Zik-Tech"/></p>
+
+
 ### Github stats
 
 
