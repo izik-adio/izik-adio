@@ -1,7 +1,6 @@
 <h2># About Me: </h2>
 <h1 align="center">Hi 👋, I'm <\Zik-Tech></h1>
  
-//![coders]()
  <img alt="coding" width="100%" height="350" src="https://user-images.githubusercontent.com/111295757/193407828-ea527bf8-1cf2-4041-8221-bb625f68e5f6.gif" />
 
 <h3 align="center">A passionate and inquisitive Software Engineer from Nigeria.</h3>
@@ -81,7 +80,6 @@ Name | Badges
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zik-Tech&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zik-Tech&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zik-Tech&theme=dracula&utcOffset=8)
-
 
 
 
