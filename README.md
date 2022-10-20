@@ -98,10 +98,6 @@ Name | Badges
 ---------------------------------------------------------------------------->
 
 ----
-----
-### Streak
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zik-Tech&" alt="Zik-Tech" /></p>
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zik-Tech&column=7)](https://github.com/ryo-ma/github-profile-trophy)
