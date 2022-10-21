@@ -83,7 +83,10 @@ Name | Badges
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zik-Tech&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zik-Tech&theme=dracula&utcOffset=8)
 
+----
+### Streak
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zik-Tech&" alt="Zik-Tech" /></p>
 
 <!-----------------------------------------------------------------------------------
 ### Tools & Technologies
