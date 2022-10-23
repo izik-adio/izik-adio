@@ -86,7 +86,7 @@ Name | Badges
 ----
 ### Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cgriff02&" alt="Zik-Tech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visionmedia&" alt="Zik-Tech" /></p>
 
 <!-----------------------------------------------------------------------------------
 ### Tools & Technologies
