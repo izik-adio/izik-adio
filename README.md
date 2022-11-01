@@ -6,7 +6,7 @@
 <h3 align="center">A passionate and inquisitive Software Engineer from Nigeria.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🔭  I’m currently working on **Alx low level programming && Zuri fullstack webdeveloper progam** projects, and personal projects involving my skills in <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> and ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white).
+- 🔭  I’m currently working on **Alx low level programming && Zuri fullstack webdeveloper progam** projects, and personal projects involving my skills in * C* and ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white).
 
 - 🌱 I’m currently reviewing my knowledges in **Bash**, **C programming** and **Python**.
 
