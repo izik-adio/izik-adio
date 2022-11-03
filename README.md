@@ -98,6 +98,7 @@ Name | Badges
        <a href="https://github.com/Zik-Tech"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
     <td>
+       <a href="https://github.com/Zik-Tech"><img alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zik-Tech&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
 </table>
@@ -127,9 +128,3 @@ Name | Badges
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
 ---------------------------------------------------------------------------->
-
-       <a href="https://github.com/Zik-Tech"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zik-Tech&theme=dracula)
- 
