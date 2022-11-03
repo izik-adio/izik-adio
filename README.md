@@ -91,7 +91,6 @@ Name | Badges
 </table>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zik-Tech&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zik-Tech&theme=dracula&utcOffset=8)
 
 ----
 ### Streak
