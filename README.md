@@ -90,11 +90,7 @@ Name | Badges
   </tr>
 </table>
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zik-Tech&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zik-Tech&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zik-Tech&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zik-Tech&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zik-Tech&theme=dracula&utcOffset=8)
 
 ----
