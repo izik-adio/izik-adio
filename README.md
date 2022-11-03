@@ -78,8 +78,8 @@ Name | Badges
 
 <table>
   <tr>
-     <th>Github Statistics</th>
-     <th>Streak</th>
+     <th> Github Statistics </th>
+     <th> Streak </th>
   </tr>
   <tr>
     <td>
@@ -89,19 +89,6 @@ Name | Badges
     <td>
        <a href="http://www.github.com/Zik-Tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zik-Tech&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td> 
-  </tr>
-  
-  <tr>
-     <td>
-       <a href="https://github.com/Zik-Tech"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-    <td>
-       <a href="https://github.com/Zik-Tech"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-       
-       ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zik-Tech&theme=dracula)
-       
-       
-    </td>
   </tr>
 </table>
 
