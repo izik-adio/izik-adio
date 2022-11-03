@@ -91,7 +91,7 @@ Name | Badges
   </tr>
   <tr>
      <th>Top languages used</th>
-     <th></th>
+     <th>Top languages by repo</th>
   </tr>
   <tr>
      <td>
