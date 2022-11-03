@@ -79,29 +79,33 @@ Name | Badges
 <table>    
   <tr>
     <td>
+       ### Github Statistics
+ 
        <a href="https://github.com/Zik-Tech"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Zik-Tech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
+    
     <td>
+    
+       ### Streak
+       
        <a href="http://www.github.com/Zik-Tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zik-Tech&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
+    </td> 
   </tr>
+  
   <tr>
      <td>
        <a href="https://github.com/Zik-Tech"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
     <td>
-    
+       <a href="https://github.com/Zik-Tech"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+       
        ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zik-Tech&theme=dracula)
+       
+       
     </td>
   </tr>
 </table>
 
-----
-### Streak
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zik-Tech&" alt="fabpot" /></p>
-
-----
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zik-Tech&column=7)](https://github.com/ryo-ma/github-profile-trophy)
