@@ -76,15 +76,17 @@ Name | Badges
 ----
 ### Github stats
 
-<table>    
+<table>
+  <tr>
+     <th>Github Statistics</th>
+     <th>Streak</th>
+  </tr>
   <tr>
     <td>
-       <th>Github Statistics</th>
        <a href="https://github.com/Zik-Tech"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Zik-Tech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     
     <td>
-       <th>Streak</th>
        <a href="http://www.github.com/Zik-Tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zik-Tech&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td> 
   </tr>
