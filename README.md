@@ -129,4 +129,4 @@ Name | Badges
 
 ---------------------------------------------------------------------------->
 
-<a href="https://github.com/Zik-Tech"><img alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language/?username=Zik-Tech&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+<a href="https://github.com/Zik-Tech"><img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language/?username=Zik-Tech&layout=compact&hide_border=true&bg_color=1d2a3a"/></a>
