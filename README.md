@@ -6,15 +6,13 @@
 <h3 align="center">A passionate and inquisitive Software Engineer from Nigeria.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🔭  I’m currently working on **Alx low level programming && Zuri fullstack webdeveloper progam** projects, and personal projects involving my skills in *C* and ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white).
+- 🔭  I’m currently working on **Alx High level programming && 100-Days-Of-Python** projects, and personal projects involving my skills in *C* and ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white).
 
 - 🌱 I’m currently reviewing my knowledges in **Bash**, **C programming** and **Python**.
 
 - 💬 Ask me about *Anything in my stack*
 
 - 📫 I’m looking for help with any of my public projects. If you have improvements to submit, make a fork or create issues.
-
-- ⚡ Fun fact **The first programming language was called FORTRAN** also **The first computer virus was created in 1986**
 
 ## ❤ Views.
 [![](https://visitcount.itsvg.in/api?id=Zik-Tech&icon=0&color=1)](https://visitcount.itsvg.in)
