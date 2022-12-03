@@ -75,9 +75,9 @@ Name | Badges
 ---
 
 ### Contribution graph
+[![Ashutosh's github activity graph]()](https://activity-graph.herokuapp.com/graph?username=Zik-Tech&theme=react-dark")
 
-<a href="https://github.com/Zik-Tech"><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Zik-Tech&theme=react-dark" alt="Zik-Tech" /></a>
-                                                                                                          
+
                                                                                                           
 <!-----------------------------------------------------------------------------------
 ### Tools & Technologies
