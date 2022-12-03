@@ -72,7 +72,7 @@ Name | Badges
   </tr>
   <tr>
      <td>
-       
+       <a href="https://github.com/Zik-Tech"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech" /></a>
     </td>
     <td>
        <a href="https://github.com/Zik-Tech"><img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language/?username=Zik-Tech&langs_count=6&layout=compact&theme=dracula&hide_border=true&bg_color=1d2a3a"/></a>
