@@ -61,17 +61,9 @@ Name | Badges
        <a href="http://www.github.com/Zik-Tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zik-Tech&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td> 
   </tr>
-
-  <tr>
-     <th colspan=2>Top languages used</th>
-  </tr>
-  <tr >
-     <td colspan=2>
-       <center><a href="https://github.com/Zik-Tech" ><center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></center></a></center>
-    </td>
-  </tr>
 </table>
 
+<center><a href="https://github.com/Zik-Tech" ><center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></center></a></center>
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zik-Tech&column=7)](https://github.com/ryo-ma/github-profile-trophy)
