@@ -67,7 +67,7 @@ Name | Badges
   </tr>
   <tr >
      <td colspan=2>
-       <a href="https://github.com/Zik-Tech" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></a>
+       <center><a href="https://github.com/Zik-Tech" ><center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></center></a></center>
     </td>
   </tr>
 </table>
