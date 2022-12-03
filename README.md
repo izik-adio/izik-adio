@@ -63,7 +63,7 @@ Name | Badges
   </tr>
 </table>
 
-<center><a href="https://github.com/Zik-Tech" ><center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></center></a></center>
+<a href="https://github.com/Zik-Tech" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></a>
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zik-Tech&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -73,11 +73,6 @@ Name | Badges
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-
-
-### Contribution graph
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zik-Tech)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
  
  
 <!-----------------------------------------------------------------------------------
