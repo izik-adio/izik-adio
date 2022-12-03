@@ -63,8 +63,7 @@ Name | Badges
   </tr>
 
   <tr>
-     <th>Top languages used</th>
-     <th>Top languages by repo</th>
+     <th colspan=2>Top languages used</th>
   </tr>
   <tr>
      <td>
