@@ -74,9 +74,12 @@ Name | Badges
 
 ---
 
+
 ### Contribution graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zik-Tech)](https://github.com/ashutosh00710/github-readme-activity-graph)
-                                                                                                          
+ 
+ 
+ 
 <!-----------------------------------------------------------------------------------
 ### Tools & Technologies
 
