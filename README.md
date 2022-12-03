@@ -66,8 +66,8 @@ Name | Badges
      <th colspan=2>Top languages used</th>
   </tr>
   <tr>
-     <td colspan=2>
-       <a href="https://github.com/Zik-Tech"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech" style="margin:auto"/></a>
+     <td>
+       <a href="https://github.com/Zik-Tech" align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></a>
     </td>
   </tr>
 </table>
