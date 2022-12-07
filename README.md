@@ -47,7 +47,7 @@ Name | Badges
 
 ----
 ### Github stats
-
+<!-- 
 <table>
   <tr>
      <th> Github Statistics </th>
@@ -62,7 +62,10 @@ Name | Badges
     </td> 
   </tr>
 </table>
-
+ -->
+ 
+ 
+ 
 <a href="https://github.com/Zik-Tech" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></a>
 
 ### Trophies
