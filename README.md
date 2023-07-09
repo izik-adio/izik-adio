@@ -21,6 +21,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/isaac-adio-874243246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zik-Tech" height="30" width="40" /></a>
+ 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZikTech1)
 </p>
 
@@ -42,29 +43,8 @@ Name | Badges
 **Tools**  |  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 ----
-
-----
-### Github stats
-<!-- 
-<table>
-  <tr>
-     <th> Github Statistics </th>
-     <th> Streak </th>
-  </tr>
-  <tr>
-    <td>
-       <a href="https://github.com/Zik-Tech"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Zik-Tech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>   
-    <td>
-       <a href="http://www.github.com/Zik-Tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zik-Tech&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td> 
-  </tr>
-</table>
- -->
- 
- 
- 
 <a href="https://github.com/Zik-Tech" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech" alt="Zik-Tech"/></a>
+
 
 
 ### ✍️ Random Dev Quote
