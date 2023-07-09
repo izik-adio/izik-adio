@@ -7,8 +7,10 @@
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - 🔭  I’m currently working on **Front-End Web Development** projects
-- 
-- 🌱 I’m currently reviewing my knowledges in **HTML**, **CSS**, **CSS FRAMEWORKS**, **jAVASCRIPT** and **Python**.
+- 🌱 I’m currently reviewing my knowledge in 
+                                            - **HTML**
+                                            - **CSS and CSS FRAMEWORKS**
+                                            - **jAVASCRIPT** and **Python**.
 
 - 💬 Ask me about *Anything in my stack*
 
