@@ -4,7 +4,7 @@
 
 <img align="right" width="500px" src="coding.gif" alt="Profile GIF">
 
-I'm a passionate and inquisitive Software Engineer from Nigeria, specializing in frontend web development. I have a strong foundation in HTML, CSS, and JavaScript. My current focus is on building compelling user interfaces and delightful user experiences. I am deeply committed to continuous learning and constantly exploring new technologies and programming paradigms.
+I am a curious and enthusiastic software engineer from Nigeria, specializing in front-end web development. I have a strong foundation in HTML, CSS, and JavaScript. My current focus is on building compelling user interfaces and delightful user experiences. I am deeply committed to continuous learning and constantly exploring new technologies and programming paradigms.
 
 ## About Me
 
