@@ -38,7 +38,8 @@ Category | Badges
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/Zik-Tech"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech&layout=compact&theme=dark" alt="Zik-Tech's Top Languages"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## ✍️ Random Dev Quote
 
