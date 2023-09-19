@@ -1,4 +1,4 @@
-# Hi, I'm Zik-Tech 👋
+# Hi, I'm Izik 👋
 ## Frontend Web Developer and Software Engineer
 
 
@@ -38,7 +38,7 @@ Category | Badges
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zik-Tech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izik-a)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ✍️ Random Dev Quote
