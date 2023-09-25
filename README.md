@@ -4,7 +4,7 @@
 
 <img align="right" width="500px" src="coding.gif" alt="Profile GIF">
 
-I am a curious and enthusiastic software engineer, specializing in front-end web development. I have a strong foundation in HTML, CSS, and JavaScript. My current focus is on building compelling user interfaces and delightful user experiences. I am deeply committed to continuous learning and constantly exploring new technologies and programming paradigms.
+I am a curious and enthusiastic software engineer, specializing in front-end web development. I have a strong foundation in HTML, CSS, JavaScript and Python. My current focus is on building compelling user interfaces and delightful user experiences. I am deeply committed to continuous learning and constantly exploring new technologies and programming paradigms.
 
 ## About Me
 
@@ -17,8 +17,8 @@ I am a curious and enthusiastic software engineer, specializing in front-end web
 
 I believe in the power of collaboration and the strength of the developer community. Let's connect and explore possibilities together:
 
-- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZikTech1)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Zik-Tech/)
+- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/izik-adio)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izik-adio/)
 - [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:adioisaac24@gmail.com)
 - [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20093152/zik-tech)
 - [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zik-tech)
@@ -38,7 +38,7 @@ Category | Badges
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izik-a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izik-adio)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ✍️ Random Dev Quote
