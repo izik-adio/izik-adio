@@ -17,7 +17,7 @@ I am a curious and enthusiastic software engineer, specializing in front-end web
 
 I believe in the power of collaboration and the strength of the developer community. Let's connect and explore possibilities together:
 
-- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/izik-adio)
+- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IzikAdio)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izik-adio/)
 - [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:adioisaac24@gmail.com)
 - [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20093152/zik-tech)
@@ -38,8 +38,7 @@ Category | Badges
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izik-adio)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izik-adio&langs_count=4)
 
 ## ✍️ Random Dev Quote
 
