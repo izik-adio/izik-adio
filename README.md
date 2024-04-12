@@ -1,28 +1,25 @@
-# Hi, I'm Izik 👋
-## Frontend Web Developer and Software Engineer
+# Hello! 👋 I'm Izik, an inquisitive Frontend Developer
 
 
-<img align="right" width="500px" src="coding.gif" alt="Profile GIF">
+I am a curious software engineer passionate about front-end web development. Proficient in HTML, CSS, TailWind CSS, JavaScript, and Python, my current focus is on building compelling user interfaces and delightful user experiences. I am deeply committed to continuous learning and constantly exploring new technologies and programming paradigms.
 
-I am a curious and enthusiastic software engineer, specializing in front-end web development. I have a strong foundation in HTML, CSS, JavaScript and Python. My current focus is on building compelling user interfaces and delightful user experiences. I am deeply committed to continuous learning and constantly exploring new technologies and programming paradigms.
 
 ## About Me
 
 - 💼 I'm actively seeking new opportunities as a frontend developer, where I can contribute my expertise in building intuitive and visually appealing interfaces.
 - 🌱 In addition to frontend development, I'm also interested in exploring new technologies and frameworks to enhance my skills further.
 - 💡 I strongly believe in the transformative power of technology and its ability to solve complex problems. My enthusiasm for programming stems from this belief, and I'm motivated to leverage cutting-edge tools and frameworks to create innovative solutions.
-- 💬 Feel free to reach out to me regarding frontend development, web design, or any other programming-related discussions.
+- 💬 Feel free to contact me regarding frontend development, web design, or any other programming-related discussions.
 
 ## 📫 Contact Me
 
 I believe in the power of collaboration and the strength of the developer community. Let's connect and explore possibilities together:
 
-- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IzikAdio)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izik-adio/)
-- [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:adioisaac24@gmail.com)
-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20093152/zik-tech)
-- [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zik-tech)
-- [![YouTube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQoK2Mq65niTEahH1QCSghg)
+
+| [![LinkedIn](https://cdn.filestackcontent.com/AbAtIAdgVTdOHrJpBdwVDz/resize=width:50,height:50/https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-256.png)](https://www.linkedin.com/in/izik-adio/) | [![Twitter](https://cdn.filestackcontent.com/AbAtIAdgVTdOHrJpBdwVDz/resize=width:50,height:50/https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png)](https://twitter.com/IzikAdio) | [![Gmail](https://cdn.filestackcontent.com/AbAtIAdgVTdOHrJpBdwVDz/resize=width:50,height:50/https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)](mailto:adioisaac24@gmail.com) |
+|---|---|---|
+
+
 
 ## 🛠️ Tools and Technologies
 
@@ -35,11 +32,15 @@ Category | Badges
 **CI/CD & Hosting**   | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 **Tools**  |  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📈  Stats
 
-## 📈 GitHub Stats
+Here's a glimpse of my GitHub activity and contributions:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izik-adio&langs_count=4)
+![](https://komarev.com/ghpvc/?username=izik-adio&abbreviated=true&base=400)
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=izik-adio&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=izik-adio&theme=vue-dark&hide_border=true"
+/>
