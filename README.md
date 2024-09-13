@@ -2,12 +2,6 @@
 
 Hi, I'm Isaac. I’m a certified Associate Data Scientist in Python with hands-on experience in AI programming. I have advanced proficiency in Python and am well-versed in machine learning frameworks and libraries, including PyTorch and scikit-learn, as well as data manipulation and visualization tools like pandas and Seaborn. With a strong foundation in mathematics, statistics, and algorithms, I’ve applied these skills to develop data-driven solutions and complex models. Known for my analytical and problem-solving abilities, I thrive in collaborative environments and excel at managing my time and projects effectively
 
-## 📫 Contact Me
-
-I believe in the power of collaboration and the strength of the developer community. Let's connect and explore possibilities together:
-
-| [![LinkedIn](https://cdn.filestackcontent.com/AbAtIAdgVTdOHrJpBdwVDz/resize=width:50,height:50/https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-256.png)](https://www.linkedin.com/in/isaac-adio/) | [![Twitter](https://cdn.filestackcontent.com/AbAtIAdgVTdOHrJpBdwVDz/resize=width:50,height:50/https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png)](https://twitter.com/IzikAdio) | [![Gmail](https://cdn.filestackcontent.com/AbAtIAdgVTdOHrJpBdwVDz/resize=width:50,height:50/https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)](mailto:adioisaac24@gmail.com) |
-|---|---|---|
 
 ## 🛠️ Tools and Technologies
 
