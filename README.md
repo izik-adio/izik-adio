@@ -1,13 +1,6 @@
-# Hello! 👋 I'm Isaac, _a Data Scientist and AI/ML Specialist_
+# Hello! 👋 I'm Isaac, _a Data Scientist and ML Engineer_
 
-I am a curious software engineer passionate about AI, data science, and technological advancements. Proficient in Python and various data science libraries, my current focus is on building and deploying AI models to solve real-world problems. I am deeply committed to continuous learning and constantly exploring new technologies and programming paradigms.
-
-## About Me
-
-- 💼 I'm actively seeking new opportunities in data science, AI, and machine learning, where I can contribute my expertise in building predictive models and deploying AI solutions.
-- 🌱 Currently enhancing my skills through an AI Programming with Python Nano Degree (Udacity, AWS Scholarship) and an Associate Data Science Track (DataCamp, I4G Scholarship).
-- 💡 I strongly believe in the transformative power of technology and its ability to solve complex problems.
-- 💬 Feel free to contact me regarding AI, data science, machine learning, or other programming-related discussions.
+Hi, I'm Isaac. I’m a certified Associate Data Scientist in Python with hands-on experience in AI programming. I have advanced proficiency in Python and am well-versed in machine learning frameworks and libraries, including PyTorch and scikit-learn, as well as data manipulation and visualization tools like pandas and Seaborn. With a strong foundation in mathematics, statistics, and algorithms, I’ve applied these skills to develop data-driven solutions and complex models. Known for my analytical and problem-solving abilities, I thrive in collaborative environments and excel at managing my time and projects effectively
 
 ## 📫 Contact Me
 
